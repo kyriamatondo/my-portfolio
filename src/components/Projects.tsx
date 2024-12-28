@@ -11,7 +11,7 @@ const projects = [
     description:
       "Une application web permettant aux utilisateurs de trouver rapidement des services de dépannage automobile proches grâce à la géolocalisation.",
     technologies: ["React", "Springboot", "Bootstrap"],
-    repoLink: "#",
+    repoLink: "https://github.com/kyriamatondo/mem-front",
     image: img1,
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     description:
       "Un site web mettant en avant mes compétences, projets et services, avec un design moderne et intuitif.",
     technologies: ["ReactJs"],
-    repoLink: "#",
+    repoLink: "https://github.com/kyriamatondo/my-portfolio",
     image: img2,
   },
 ];
