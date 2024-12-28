@@ -8,6 +8,7 @@ import imgTAILWIND from "../assets/assets/techno/tailwind.png";
 import imgBOOTSTRAP from "../assets/assets/techno/bootstrap.webp";
 import imgTYPE from "../assets/assets/techno/typescript.svg";
 import imgSPRING from "../assets/assets/techno/spring.webp";
+import imgMYSQL from "../assets/assets/techno/mysql.webp";
 
 const Techs = () => {
   const skills = [
@@ -20,6 +21,7 @@ const Techs = () => {
     { id: 7, name: "Bootstrap", image: imgBOOTSTRAP },
     { id: 8, name: "TypeScript", image: imgTYPE },
     { id: 9, name: "Springboot", image: imgSPRING },
+    { id: 10, name: "Mysql", image: imgMYSQL },
   ];
 
   return (
